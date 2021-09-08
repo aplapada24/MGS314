@@ -1,0 +1,41 @@
+print(6+2)
+#print(6+10)*(10+6)
+
+print((6+10)*(10+6))
+print(6+10*10+6)
+print(100%2)
+x=10
+y=100.5
+z=True
+c='This is a string'
+a=[1,2,3,4,5]
+b=['H','E','L','L','O']
+print(x,y,z,c,a,b)
+h=10+6
+k=9*15
+print(h+k)
+print(type(k))
+print(type(y))
+
+
+x_int = 10
+print(type(x_int))
+
+x_float=100.9
+print(type(x_float))
+
+x_string="hello!"
+print(type(x_string))
+
+print("abc\efc")
+
+marks_obtained=100
+total_marks=400
+percentage=marks_obtained/total_marks*100
+print(percentage)
+
+x='I am a UB Student'
+print(x[0])
+print(x[5])
+print(x[-1])
+print(x[0:17])
